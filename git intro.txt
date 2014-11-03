@@ -3,4 +3,4 @@ Git is free software.
 
 I have second change.
 
-I have third change on the local.
+I have third change on both on the local and server.
